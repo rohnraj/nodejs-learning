@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blocking_nonBlocking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohnraj/nodejs-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rohnraj/nodejs-learning/issues"
+  },
+  "homepage": "https://github.com/rohnraj/nodejs-learning#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
